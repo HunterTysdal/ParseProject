@@ -1,0 +1,5 @@
+1 break
+2 z := 6 * 8
+3 gosub 2
+4 goto 5
+$$
